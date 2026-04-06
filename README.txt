@@ -1,4 +1,4 @@
-# 🚀 Logistic Regression for Sentiment Analysis (Level 2 - Codveda Internship)
+# 🚀 Logistic Regression for Sentiment Analysis 
 
 ## 📌 Project Overview
 
@@ -86,4 +86,4 @@ The model was evaluated using:
 
 ---
 
-✨ Internship Task - Codveda
+
